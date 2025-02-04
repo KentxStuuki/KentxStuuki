@@ -36,5 +36,5 @@
 
 # 📊 GitHub Stats:
 <!-- Obtain format for this Github Stats in this repo: https://github.com/anuraghazra/github-readme-stats -->
-[![KentxStuuki github stats](https://github-readme-stats.vercel.app/api?username=KentxStuuki&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+![KentxStuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentxStuuki&show_icons=true&theme=dark)<br>
