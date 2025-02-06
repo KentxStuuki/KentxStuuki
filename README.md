@@ -5,7 +5,8 @@
 ✒️ A Frontend Developer that loves designing websites<br>
 📖 Studying to become a better Web Developer<br> 
 🎮 I enjoy playing online reading manga, and watching anime during my free time<br>
-📘 Feel free to visit my Portfolio [MEDQ.netlify.app](MEDQ.netlify.app).
+<!--
+📘 Feel free to visit my temporary Portfolio [medq-portfolio.netlify.app](medq-portfolio.netlify.app). -->
 
 
 # 🖥️ Tech Stack:
