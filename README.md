@@ -1,14 +1,14 @@
-# Hi there, I'm Mark 👋
+# Hi there, I'm Your Typical Programmer Kent👋
 
-## 🙂 About Me:
-🏫 I'm Currently Studying Web Development at Holy Angel University<br>
-✒️ A Frontend Developer that loves designing websites<br>
-📖 Studying to become a better Web Developer<br> 
-🎮 I enjoy playing online reading manga, and watching anime during my free time<br>
-📘 Feel free to visit my temporary Portfolio [medq-portfolio.netlify.app](https://medq-portfolio.netlify.app/).
+## 🙂 Information About Me:
+👨‍💻 I'm Currently Studying UI/UX, Front-end Designs. Perfecting them with my own unique approach.   <br>
+✒️ A Web Developer that loves Designing, Writing, Reading and Gaming.<br>
+📖 with the current goal of learning new knowledges and to become a better Web Developer.<br> 
+🎮 Whenever I have free time i usually enjoy playing online reading manga, and watching anime during my free time.<br>
+📘 If you want to know about me feel free to visit my temporary Portfolio [MEDQ-PORTFOLIO](https://medq-portfolio.netlify.app/).
 
 
-## 🖥️ Tech Stack:
+## 🖥️ My Tech Stack:
 <!-- Obtain badges are in this repo: https://github.com/Ileriayo/markdown-badges -->
 ### FrontEnd:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,7 +45,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <!-- Obtain format for this Github Stats in this repo: https://github.com/anuraghazra/github-readme-stats -->
 
 ![KentxStuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentxStuuki&show_icons=true&theme=dark)<br>
