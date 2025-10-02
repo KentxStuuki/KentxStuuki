@@ -1,4 +1,9 @@
-# Hi there, I'm Your Typical Programmer Kent👋
+# <p align="center">Hi there, I'm Your Typical Programmer Kent👋</p>
+<!-- Typing animation SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4000&pause=1200&deleteSpeed=500&color=FFF&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Developer;Back-End+Developer;Data+Base+Developer;UI/UX+Designer)](https://git.io/typing-svg)
+
+<!-- Horizontal line -->
+<hr style="border:1px #ccc; width:50%; margin:auto;">
 
 ## 🙂 Information About Me:
 👨‍💻 I'm Currently Studying UI/UX, Front-end Designs. Perfecting them with my own unique approach.   <br>
@@ -8,7 +13,7 @@
 📘 If you want to know about me feel free to visit my temporary Portfolio [MEDQ-PORTFOLIO](https://medq-portfolio.netlify.app/).
 
 
-## 🖥️ My Tech Stack:
+## 🖥️ My Tech Stack
 <!-- Obtain badges are in this repo: https://github.com/Ileriayo/markdown-badges -->
 ### FrontEnd:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,8 +49,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
 ### 📊 GitHub Stats:
 <!-- Obtain format for this Github Stats in this repo: https://github.com/anuraghazra/github-readme-stats -->
-
 ![KentxStuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentxStuuki&show_icons=true&theme=dark)<br>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
+</p>
+
