@@ -10,7 +10,7 @@
 ✒️ A Web Developer that loves Designing, Writing, Reading and Gaming.<br>
 📖 with the current goal of learning new knowledges and to become a better Web Developer.<br> 
 🎮 Whenever I have free time i usually enjoy playing online reading manga, and watching anime during my free time.<br>
-📘 If you want to know about me feel free to visit my temporary Portfolio [MEDQ-PORTFOLIO](https://medq-portfolio.netlify.app/).
+📘 If you want to know about me feel free to visit my temporary Portfolio [markerollequiambao](https://markerollequiambao.vercel.app/).
 
 
 ## 🖥️ My Tech Stack
@@ -49,10 +49,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 📊 GitHub Stats:
 <!-- Obtain format for this Github Stats in this repo: https://github.com/anuraghazra/github-readme-stats -->
-![KentxStuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=KentxStuuki&show_icons=true&theme=dark)<br>
- <p align="center">
+
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
 </p>
