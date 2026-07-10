@@ -144,8 +144,6 @@ A security-focused developer utility built for managing, isolating, and securely
 
 ## 💡 Developer Philosophy
 
-## 💡 Developer Philosophy
-
 > "Hindi pa huli ang lahat."
 > 
 > *It is never too late."
